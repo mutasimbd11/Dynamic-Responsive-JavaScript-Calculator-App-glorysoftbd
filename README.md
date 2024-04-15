@@ -1,3 +1,6 @@
+# Demo
+![demo](https://github.com/mutasimbd11/Dynamic-Responsive-JavaScript-Calculator-App-glorysoftbd/assets/148184463/17851306-eaf6-452c-adc7-81ed29f235bf)
+
 # Web Calculator Project
 
 Welcome to the Web Calculator project! This interactive calculator is designed to provide users with a modern and user-friendly tool for performing basic arithmetic operations. Whether you're a student, professional, or casual user, our calculator aims to simplify your calculations with ease.
@@ -32,7 +35,7 @@ Contributions to the Web Calculator project are highly appreciated! If you encou
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), allowing for free and open use, modification, and distribution. By contributing to this project, you agree to abide by the terms and conditions outlined in the license, fostering a collaborative and inclusive open-source community.
+This project is licensed under the [MIT License](LICENSE), allowing for free and open use, modification, and distribution. By contributing to this project, you agree to abide by the terms and conditions outlined in the license, fostering a collaborative and inclusive open-source community. Designed by: Md. Mutasim Billah Kaokab--CEO at Glorysoftbd
 
 ## Get Started
 
